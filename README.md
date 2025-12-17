@@ -6,14 +6,13 @@ This project demonstrates the impact of professional SEO configuration and perfo
 ## 📊 Results & Analytics
 The most prominent result was a **100% increase** in key metrics including sessions, pageviews, and total users within a 30-day period.
 
-![Google Analytics Growth](google-analytics-results.png)
-
+![Google Analytics Growth](google%20analytics%20results.png.png)
 ## 🛠️ Optimization Steps
 
 ### 1. SEO Content Audit (Before)
 Initially, many posts lacked focus keyphrases and proper SEO metadata, leading to low search engine rankings.
 
-![SEO Status Before](seo-score-before.png)
+![SEO Status Before](seo%20score%20before.png.png)
 
 ### 2. Implementation
 * **Technical SEO:** Configured XML Sitemaps, Robots.txt, and Schema Markup.
